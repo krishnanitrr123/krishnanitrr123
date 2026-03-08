@@ -25,12 +25,25 @@
 </p>
 
 <p align="center">
-
+  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 
 </p>
+
+---
+# 💼 Experience
+
+### 📊 Data Analyst Intern
+**Elevate Lab** | *Dec 2024 – Jun 2025*
+
+• Analyzed large datasets using **SQL and Python** to identify trends and business insights  
+• Built **interactive dashboards using Power BI** to track KPIs and performance metrics  
+• Performed **data cleaning and transformation** using Python (Pandas) and Excel  
+• Assisted in generating **reports and data-driven recommendations** for business decisions
 
 ---
 
@@ -72,7 +85,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnanitrr123&theme=tokyo-night"/>
 </p>
 
 ---
