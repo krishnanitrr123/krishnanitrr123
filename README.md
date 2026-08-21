@@ -70,7 +70,7 @@
 ### 📌 Swiggy Data Analysis (SQL)
 • Performed business analysis on customer orders dataset  
 • Used joins, aggregations, and window functions  
-• Extracted insights on revenue, customer behavior, and orders  
+• Extracted insights on revenue, customer behavior, and orders.  
 
 ### 📌 Sales Dashboard (Power BI)
 • Built an interactive dashboard for sales performance  
