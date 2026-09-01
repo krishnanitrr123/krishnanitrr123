@@ -67,7 +67,7 @@
 
 ## 🚀 Featured Projects
 
-### 📌 Customer Shopping Behavior Analysis | Python, MySQL, Power BI | [Link](https://github.com/krishnanitrr123/Customer-trend-Analysis)
+### 📌 Customer Shopping Behavior Analysis | Python, MySQL, Power BI | [Link 🔗](https://github.com/krishnanitrr123/Customer-trend-Analysis)
 
 • Analyzed 3,900 customer transactions across 18 attributes, applying Python, MySQL, data cleaning, EDA, and feature engineering to uncover spending, product, subscription, and purchasing behavior.  
 • Segmented customers into New, Returning, and Loyal cohorts, identifying 3,116 Loyal customers (79.9%) and analyzing $233K+ revenue to identify customer engagement and retention opportunities.
