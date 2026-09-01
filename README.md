@@ -11,7 +11,7 @@
 🎓 **B.Tech – National Institute of Technology Raipur**  
 📊 Passionate about **Data Analytics, Business Intelligence, and Data Science**  
 📈 Skilled in transforming **raw data into actionable insights**  
-🧠 Experienced with **SQL, Python, Power BI, Excel, and Tableau**  
+🧠 Experienced with **SQL, Python, Power BI, Excel, and Tableau, Machine Learning, Deep Learning, Data Cleaning, Dashboard Creation**  
 🚀 Currently building **real-world analytics projects and dashboards**
 
 ---
@@ -67,14 +67,16 @@
 
 ## 🚀 Featured Projects
 
-### 📌 Swiggy Data Analysis (SQL)
-• Performed business analysis on customer orders dataset  
-• Used joins, aggregations, and window functions  
-• Extracted insights on revenue, customer behavior, and orders.  
+### 📌 Customer Shopping Behavior Analysis | Python, MySQL, Power BI
+• Analyzed 3,900 customer transactions across 18 attributes, applying Python, MySQL, data cleaning, EDA, and feature engineering to uncover spending, product, subscription, and purchasing behavior.  
+• Segmented customers into New, Returning, and Loyal cohorts, identifying 3,116 Loyal customers (79.9%) and analyzing $233K+ revenue to identify customer engagement and retention opportunities.
+• Built an interactive Power BI dashboard with KPI reporting, customer segmentation, revenue and product analysis; identified 73% non-subscribers and translated findings into targeted marketing and customer-retention recommendations.  
 
-### 📌 Sales Dashboard (Power BI)
-• Built an interactive dashboard for sales performance  
-• Visualized KPIs such as revenue, profit, and regional sales  
+### 📌Movie Recommendation System | Python, Scikit-learn, Streamlit, TMDB API
+• Engineered a content-based recommendation system for 4,806 movies using NLP-based feature engineering, combining plot overviews, genres, keywords, top-3 cast, and director metadata into unified movie tags.
+• Implemented CountVectorizer and cosine similarity to generate Top-5 movie recommendations; optimized inference by precomputing recommendation indices, reducing recommendation data from ~185 MB to 0.58 MB (99.7% reduction).  
+•  Developed and deployed an interactive Streamlit application with TMDB REST API integration for dynamic poster retrieval, API retry/backoff handling, HTTP session management, and 24-hour caching; deployed via GitHub + Streamlit Cloud.
+
 
 ### 📌 Python Data Analysis
 • Data cleaning using **Pandas**  
