@@ -67,34 +67,34 @@
 
 ## 🚀 Featured Projects
 
-### 📌 Customer Shopping Behavior Analysis | Python, MySQL, Power BI | [Link 🔗](https://github.com/krishnanitrr123/Customer-trend-Analysis)
+### 📌 Customer Shopping Behavior Analysis | Python, MySQL, Power BI | [Link](https://github.com/krishnanitrr123/Customer-trend-Analysis)
 
 • Analyzed 3,900 customer transactions across 18 attributes, applying Python, MySQL, data cleaning, EDA, and feature engineering to uncover spending, product, subscription, and purchasing behavior.  
 • Segmented customers into New, Returning, and Loyal cohorts, identifying 3,116 Loyal customers (79.9%) and analyzing $233K+ revenue to identify customer engagement and retention opportunities.
 • Built an interactive Power BI dashboard with KPI reporting, customer segmentation, revenue and product analysis; identified 73% non-subscribers and translated findings into targeted marketing and customer-retention recommendations.  
 
-### 📌Movie Recommendation System | Python, Scikit-learn, Streamlit, TMDB API
+### 📌Movie Recommendation System | Python, Scikit-learn, Streamlit, TMDB API | [Link](https://github.com/krishnanitrr123/Movie-recommendor)
 • Engineered a content-based recommendation system for 4,806 movies using NLP-based feature engineering, combining plot overviews, genres, keywords, top-3 cast, and director metadata into unified movie tags.
 • Implemented CountVectorizer and cosine similarity to generate Top-5 movie recommendations; optimized inference by precomputing recommendation indices, reducing recommendation data from ~185 MB to 0.58 MB (99.7% reduction).  
 •  Developed and deployed an interactive Streamlit application with TMDB REST API integration for dynamic poster retrieval, API retry/backoff handling, HTTP session management, and 24-hour caching; deployed via GitHub + Streamlit Cloud.
 
 
-### 📌Store Annual Report-Excel
+### 📌Store Annual Report | Excel | [Link](https://github.com/krishnanitrr123/Store-Annual-Report---Using-Excel-)
 • Designed an interactive Excel sales dashboard using Pivot Tables, Pivot Charts, Slicers, and Conditional Formatting to track key KPIs including Total Sales, Profit, and Orders.  
 • Cleaned, structured, and transformed raw sales data into Excel Tables for accurate, efficient analysis and reporting.
 • Delivered insights on monthly trends, top categories, regional performance, and customer behavior, enabling data-driven decision-making
 
-### 📌Sentiment Analysis - Machine Learning
+### 📌Sentiment Analysis | Machine Learning | [Link](https://github.com/krishnanitrr123/SENTIMENT-ANALYSIS-NLP---TWITTER-)
 • Built a Logistic Regression sentiment classifier on 1.6M tweets from the Sentiment140 dataset, achieving 77.6% accuracy in **binary positive/negative tweet classification**. 
 • Designed an NLP preprocessing pipeline using **NLTK* — including stop word removal, lowercasing, and **Porter Stemming** to clean and normalize raw Twitter text at scale.
 • Converted unstructured tweet text into numerical feature vectors via **TF-IDF/CountVectorizer**, enabling efficient large-scale text classification with Scikit-learn.
 
-### 📌Domino’s Pizza Store Analysis- SQL
+### 📌Domino’s Pizza Store Analysis |SQL| [Link](https://github.com/krishnanitrr123/Dominos-Analysis)
 • Built and analyzed a relational SQL database to perform data cleaning, exploratory data analysis (EDA), and revenue analysis on customer orders and pizza sales. 
 • Used **SQL joins, aggregations, CTEs, and window functions** to identify sales trends, top-performing products, customer segmentation, and repeat customer behavior.
 • Delivered business insights on **menu performance*, *peak demand periods*, *revenue contribution*, and *operational optimization* to support data-driven decision-making.
 
-### 📌Optimization of Fuel Rate Using Blast Furnace Parameter | Machine Learning
+### 📌Optimization of Fuel Rate Using Blast Furnace Parameter | Machine Learning 
 • Performed data-driven analysis of Blast Furnace fuel consumption and developed machine learning models to predict furnace performance and identify opportunities for fuel-rate optimization.  
 • Analyzed critical process parameters including hot blast temperature, CO utilization efficiency, slag rate, flame temperature, and top pressure to determine their impact on furnace performance.
 • Built the analytical workflow using Python, Pandas, and Scikit-learn for data preprocessing, model development, and visualization, translating model insights into recommendations for improving energy efficiency and reducing fuel consumption costs.
