@@ -99,6 +99,22 @@
 • Analyzed critical process parameters including hot blast temperature, CO utilization efficiency, slag rate, flame temperature, and top pressure to determine their impact on furnace performance.
 • Built the analytical workflow using Python, Pandas, and Scikit-learn for data preprocessing, model development, and visualization, translating model insights into recommendations for improving energy efficiency and reducing fuel consumption costs.
 
+
+### 📌HR Analytics Dashboard | Power BI | [Link](https://github.com/krishnanitrr123/HR-ANALYTICS-DASHBOARD)
+• Developed an interactive HR Analytics Dashboard in Power BI to analyze employee attrition across key workforce dimensions.  
+• Analyzed 1,470 employees and 237 attritions, highlighting an overall 16.1% attrition rate and key workforce KPIs.
+• Identified high-attrition segments across age, salary, education, job role, gender, and tenure, with employees aged 26–35 and salary up to 5K showing the highest attrition counts.
+• Built visual reports using donut, bar, column, area, and tree map-style charts to transform HR data into actionable insights for employee retention analysis.
+
+
+### 📌SMS/Email Spam Classifier | Machine Learning | Multinomial Navie Bayes | [Link](https://github.com/krishnanitrr123/SMS-Email-spam-classifier)
+•Developed and deployed an Email/SMS Spam Classifier using Python, Scikit-learn, and Streamlit, achieving 97% accuracy and 100% precision score in detecting spam messages. 
+• Performed data cleaning and preprocessing, including handling missing values, removing duplicates, and standardizing text data, ensuring high-quality input for model training.
+• Implemented advanced NLP preprocessing techniques **(tokenization, stop word removal, stemming)** and *TF-IDF
+vectorization*, improving feature representation for model performance.
+• Built and evaluated **Multiple Naive Bayes models** (MultinomialNB, BernoulliNB, GaussianNB). The final model uses Multinomial Naive Bayes, optimized for text data.
+
+
 ---
 
 ## 📈 Contribution Graph
